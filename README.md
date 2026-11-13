@@ -1,10 +1,12 @@
-### Hi, I'm Ace
+<img width="1280" height="720" alt="frame-1" src="https://github.com/user-attachments/assets/1a6dbb4e-34a3-4617-9a77-de27ca349f8b" />
 
-I am a **IT technician** student based in Poland Studying In Technikum Elektroniczne nr 1 (ZS Nr 36), focusing on IT support, networking, and hardware administration. I am building hands-on experience through home lab setups and real-world troubleshooting guides with the goal of joining an IT support or infrastructure team in the game development industry!
+### Hi, I'm Ace :D
+
+I am an **IT Technician** student based in Poland Studying In Technikum Elektroniczne nr 1 (ZS Nr 36), focusing on IT support, networking, and hardware administration. I am building hands-on experience through home lab setups and real-world troubleshooting guides with the goal of joining an IT support or infrastructure team in the game development industry!
 
 ---
 
-### Core Focus & Skills
+### 🌐 Core Focus & Skills
 * **Troubleshooting & Support:** Diagnosing network issues (DNS, DHCP, connectivity), OS bugs, and hardware faults
 * **Hardware & OS (INF.02):** PC assembly, UEFI/BIOS configuration, peripheral setup, Windows, and Linux fundamentals
 * **Networking:** Cisco Packet Tracer, topology design, switching, and basic routing
@@ -13,9 +15,9 @@ I am a **IT technician** student based in Poland Studying In Technikum Elektroni
 ---
 
 ### 📂 What You'll Find Here
-* **`troubleshooting-notes/`** – Step-by-step guides on fixing common issues (DNS failures, SSL blocks, driver bugs)
-* **`home-lab/`** – Setup documentation for virtual servers, Linux, and Windows Server environments
-* **`cisco-topologies/`** – Network layouts, configuration notes, and connectivity tests
+* **`troubleshooting-notes`** – Step-by-step guides on fixing common issues (DNS failures, SSL blocks, driver bugs)
+* **`home-lab`** – Setup documentation for virtual servers, Linux, and Windows Server environments
+* **`cisco-topologies`** – Network layouts, configuration notes, and connectivity tests
 
 ---
 
